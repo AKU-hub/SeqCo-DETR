@@ -30,7 +30,11 @@ Paper is under review, code is under preparation, please be patient.
   <h3 align="center">Result in VOC</h3> </p>
 
 #### Table 3: Comparison results on few-shot detection task on COCO, evaluated on the novel classes. 
-![Table 3](./figs/table3.png) 
+<p align="center">
+  <a>
+    <img src="./figs/table3.png" alt="robot" width="594" height="192">
+  </a>
+  <h3 align="center">Result in Few-shot</h3> </p>
  
  
  
