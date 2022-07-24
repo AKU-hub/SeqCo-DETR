@@ -23,7 +23,11 @@ Paper is under review, code is under preparation, please be patient.
   <h3 align="center">Result in COCO</h3> </p>
 
 #### Table 2: Comparison of detection results fine-tuned on PASCAL VOC trainval07+12 and evaluated on test07.
-![Table 2](./figs/table2.png) 
+<p align="center">
+  <a>
+    <img src="./figs/table2.png" alt="robot" width="520" height="206">
+  </a>
+  <h3 align="center">Result in VOC</h3> </p>
 
 #### Table 3: Comparison results on few-shot detection task on COCO, evaluated on the novel classes. 
 ![Table 3](./figs/table3.png) 
