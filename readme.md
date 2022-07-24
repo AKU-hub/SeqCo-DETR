@@ -16,7 +16,11 @@ Paper is under review, code is under preparation, please be patient.
 
 ## Results
 #### Table 1: Comparison of detection results fine-tuned on MS COCO train2017 and evaluated on val2017.
-![Table 1](./figs/table1.png) 
+<p align="center">
+  <a>
+    <img src="./figs/table1.png" alt="robot" width="450" height="145">
+  </a>
+  <h3 align="center">Result in COCO</h3> </p>
 
 #### Table 2: Comparison of detection results fine-tuned on PASCAL VOC trainval07+12 and evaluated on test07.
 ![Table 2](./figs/table2.png) 
