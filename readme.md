@@ -18,7 +18,7 @@ Paper is under review, code is under preparation, please be patient.
 #### Table 1: Comparison of detection results fine-tuned on MS COCO train2017 and evaluated on val2017.
 <p align="center">
   <a>
-    <img src="./figs/table1.png" alt="robot" width="450" height="145">
+    <img src="./figs/table1.png" alt="robot" width="540" height="174">
   </a>
   <h3 align="center">Result in COCO</h3> </p>
 
